@@ -1,0 +1,19 @@
+{
+  "name": "boggle_impl2_after_codereview",
+  "version": "1.0.0",
+  "description": "Boogle_Solver Impl after code review",
+  "main": "boggle_solver.js",
+  "dependencies": {
+    "eslint-plugin-jest": "24.0.2"
+  },
+  "devDependencies": {
+    "eslint": "7.9.0",
+    "eslint-plugin-react": "7.20.6",
+    "jest": "26.4.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
